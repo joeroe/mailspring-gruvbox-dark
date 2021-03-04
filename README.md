@@ -2,7 +2,7 @@
 
 A dark mode theme for the [Mailspring](http://www.getmailspring.com/) email client using the beautiful [gruvbox](https://github.com/morhetz/gruvbox) "retro groove" colour scheme by Pavel Pertsev.
 
-<img src="https://raw.githubusercontent.com/joeroe/mailspring-gruvbox-dark/master/screenshot/custom-theme.png" />
+<img src="https://raw.githubusercontent.com/joeroe/mailspring-gruvbox-dark/master/screenshot/mailspring-gruvbox-dark.png" />
 
 ## Usage
 
